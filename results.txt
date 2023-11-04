@@ -1,0 +1,48 @@
+####################################################################
+the most activity was:
+2nd half of March - 14856 users
+1st half of February - 12929 users
+1st half of April - 8561 users
+2nd half of February - 8030 uesrs
+1st half of Match - 7904 users
+
+####################################################################
+the most famous courses who is still learning:
+https://dasreda.ru/learn                         477
+https://dasreda.ru/learn/blog                    190
+https://dasreda.ru/learn/do                      159
+https://dasreda.ru/learn/videos                  151
+https://dasreda.ru/learn/courses                 150
+courses:
+https://dasreda.ru/learn/blog/article/259        131
+https://dasreda.ru/learn/blog/article/281        115
+https://dasreda.ru/learn/courses/biznes-klass    89
+https://dasreda.ru/learn/blog/article/128        88
+https://dasreda.ru/learn/blog/article/325        84
+
+Conclusion: most of people didn't even attend the courses. 
+The rest went to motivational courses and courses related to finance.
+####################################################################
+
+####################################################################
+the most famous courses who stopped learning:
+https://dasreda.ru/learn                         1451
+https://dasreda.ru/learn/do                       382
+https://dasreda.ru/learn/courses                  373
+https://dasreda.ru/learn/blog/article/259         345
+https://dasreda.ru/learn/videos                   338
+https://dasreda.ru/learn/blog                     336
+https://dasreda.ru/learn/courses/biznes-klass     316
+https://dasreda.ru/learn/blog/article/103         294
+https://dasreda.ru/learn/blog/article/128         286
+https://dasreda.ru/learn/trajectory/pekar         279
+
+Conclusion: most of people didn't even attend the courses. 
+The rest went to motivational websites.
+####################################################################
+
+####################################################################
+Missing data:
+Lack of data to determine common patterns among those who have stopped studying and those who continue to study (you can only determine common visiting sites).
+Недостаток данных для определения общих паттернов у тех кто перестал заниматься и у тех, кто продолжает учиться(можно определить только общие сайты посещения).
+####################################################################
